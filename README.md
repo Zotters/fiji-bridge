@@ -1,7 +1,4 @@
-                                    **V1.0.5**
-                               *Written by Zotters*
-                       **CONFIGURATION FOUND IN SETTINGS.LUA**
-
+##
 A universal framework bridge for FiveM that provides a unified API for working with different frameworks (ESX, QBCore, QBX), inventory systems, and target systems.
 
 ## Overview
@@ -9,11 +6,11 @@ A universal framework bridge for FiveM that provides a unified API for working w
 Fiji Bridge is designed to make your scripts framework-agnostic and easily portable across different server setups. It automatically detects and adapts to the framework and systems running on your server, providing a consistent API regardless of the underlying implementation.
 
 ## Compatibility
-*Frameworks: ESX, QBCore, QBX, standalone
-*Inventory Systems: ox_inventory, qb-inventory, qs-inventory, ESX inventory
-*Target Systems: ox_target, qb-target, qtarget
-*FiveM Artifacts: Compatible with latest artifacts
-*OneSync: Fully compatible with OneSync
+* Frameworks: ESX, QBCore, QBX, standalone
+* Inventory Systems: ox_inventory, qb-inventory, qs-inventory, ESX inventory
+* Target Systems: ox_target, qb-target, qtarget
+* FiveM Artifacts: Compatible with latest artifacts
+* OneSync: Fully compatible with OneSync
 
 ## Features
 
