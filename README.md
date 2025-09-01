@@ -1,4 +1,4 @@
-           ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄                    
+```lua     ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄                    
           ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌                   
           ▐░█▀▀▀▀▀▀▀▀▀  ▀▀▀▀█░█▀▀▀▀  ▀▀▀▀▀█░█▀▀▀  ▀▀▀▀█░█▀▀▀▀                    
           ▐░▌               ▐░▌           ▐░▌         ▐░▌                        
@@ -23,7 +23,7 @@
  ▀▀▀▀▀▀▀▀▀▀   ▀         ▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀   ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  
                                     **V1.0.5**
                                *Written by Zotters*
-                       **CONFIGURATION FOUND IN SETTINGS.LUA**   
+                       **CONFIGURATION FOUND IN SETTINGS.LUA**```   
 
 A universal framework bridge for FiveM that provides a unified API for working with different frameworks (ESX, QBCore, QBX), inventory systems, and target systems.
 
